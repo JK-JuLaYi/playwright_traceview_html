@@ -1,3 +1,8 @@
+[![PyPI version](https://img.shields.io/pypi/v/playwright-traceview-html)](https://pypi.org/project/playwright-traceview-html/)
+[![Python](https://img.shields.io/pypi/pyversions/playwright-traceview-html)](https://pypi.org/project/playwright-traceview-html/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://img.shields.io/pypi/dm/playwright-traceview-html)](https://pypi.org/project/playwright-traceview-html/)
+
 # Playwright-TraceView-HTML
 
 A lightweight Python tool that scans your Playwright test results, generates a clean HTML dashboard, and starts a local interactive server to view traces — with a one-click stop button.
