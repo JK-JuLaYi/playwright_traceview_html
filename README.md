@@ -52,7 +52,7 @@ Output:
 
 🪪 License
 
-MIT License © 2025 JAYA KRISHNA
+License © 2025 JAYA KRISHNA
 
 ---
 
